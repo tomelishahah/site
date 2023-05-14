@@ -1,0 +1,29 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
+
+.cabecalho-org{
+ background-color: #343434;
+ color: white;
+ align-items: start;
+ display: flex;
+ justify-content: start;
+}
+.cabecalho-img{
+ width: 8%;
+}
+.cabecalho-1{
+    display: block;
+    font-size: 24px;
+    padding-right: 610px;
+    padding-left: 24px;
+}
+.cabecalho-2{
+    display: block;
+    font-size: 24px;
+    padding-left: 24px;
+}
+  
