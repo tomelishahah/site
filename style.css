@@ -13,6 +13,7 @@ padding: 0;
 }
 .cabecalho-img{
  width: 8%;
+ padding-left: 850px;
 }
 .cabecalho-1{
     display: block;
@@ -38,7 +39,7 @@ padding: 0;
   .vini-img{
     width: 17%;
     padding-top: 50px;
-    padding-left: 150px;
+    padding-left: 160px;
    
   }
   .leo-img{
@@ -48,15 +49,17 @@ padding: 0;
   }
   .bryan-img{
     width: 17%;
-
-  }
-
+}
+.nathan-img{
+  width: 17%;
+  padding-left: 92px;
+}
   .frase-div{
     display: flex;
   }
   .frase-vini{
     width: 17%;
-    padding-left: 150px;
+    padding-left: 160px;
   }
   .frase-leo{
     width: 17%;
@@ -66,6 +69,10 @@ padding: 0;
   .frase-bryan{
     width: 17%;
     padding-left: 96px;
+  }
+  .frase-nathan{
+ width: 17%;
+ padding-left: 98px;
   }
   .espaço{
     background-color: #343434;
