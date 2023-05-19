@@ -32,9 +32,12 @@ padding: 0;
 }
 .sobre-cabecalho{
 padding-left:  750px;
+
 }
 .site-frase{
 padding-left: 750px;
+font-style: normal;
+
 }
   .gp7{
     display: flex;
