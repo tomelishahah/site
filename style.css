@@ -30,6 +30,12 @@ padding: 0;
 .sobre{
   background-color: #1F499B;
 }
+.sobre-cabecalho{
+padding-left:  600px;
+}
+.site-frase{
+padding-left: 600px;
+}
   .gp7{
     display: flex;
     align-items: center;
