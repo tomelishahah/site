@@ -29,6 +29,8 @@ padding: 0;
 }
 .sobre{
   background-image: linear-gradient(#0b6c8a, #1F499B);
+  display: flex;
+  align-items: center;
 }
 
 .sobre-cabecalho{
