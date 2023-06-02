@@ -44,6 +44,7 @@ width: 12%;
 .comp-img{
   width: 30%;
   padding-bottom: 50px;
+  display: flex;
   align-items: end;
 }
   .gp7{
