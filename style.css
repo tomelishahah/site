@@ -29,20 +29,16 @@ padding: 0;
 }
 .sobre{
   background-image: linear-gradient(#0b6c8a, #1F499B);
-  display: flex;
+  
 }
 
 .sobre-cabecalho{
-padding-left: 500px;
+
 }
 .site-frase{
-width: 12%;
-padding-top: 160px;
-padding-left: 100px;
+
 }
 .comp-img{
-  width: 30%;
-  padding-bottom: 50px;
 }
   .gp7{
     display: flex;
